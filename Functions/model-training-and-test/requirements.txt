@@ -1,0 +1,10 @@
+functions-framework==3.*
+db-dtypes
+numpy
+pandas
+matplotlib
+scikit-learn
+google-cloud-bigquery
+google-cloud-storage
+tensorflow
+joblib
